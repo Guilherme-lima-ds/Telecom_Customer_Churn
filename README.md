@@ -5,7 +5,7 @@
 Imagine que você e um dono de uma empresa de assinaturas e está percebendo que com conforme o tempo passa alguns clientes estão deixando a empresa, e como e uma coisa muito repentina, você não consegue tomar uma decisão ou sua decisão não surge tanto efeito, pois o cliente já desistiu do produto, em busca de evitar que isso continue ocorrendo, você resolver contratar uma consultoria de Ciência de dados, para que a pessoa em pose dos dados da sua empresa consiga de alguma forma, identificar os principais fatores que fazem o cliente desistir de um produto e por fim prever se o cliente e um potencial churn ou não, você acredita que com isso vai poder saber antes que aconteça e assim já começar de cedo alguma campanha de prevenção, fazendo a empresa perder menos clientes e dinheiro, depois de uma conversa com o cientista e ele entendendo bem o problema que você está passando e entendo bem o que você quer de solução, ele inicia o projeto...
 
 ## Definições:
-Churn é uma métrica que indica o quanto a sua empresa perdeu de receita ou clientes, por isso quando.
+Churn é uma métrica que indica o quanto a sua empresa perdeu de receita ou clientes, por isso quanto.
 
 
 ## Objetivo do projeto:
